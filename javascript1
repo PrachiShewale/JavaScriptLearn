@@ -1,0 +1,32 @@
+<!-- Echma script-standard in which java script is based on ,it was created to make sure that any doc on java script are talking about the same language
+it is a standard followed by everyone to code in java script
+
+execute java script--in browser directly or using node.js(run time) or by inserticng everything in <script> tag of an html tag
+<!-- 
+//Java script is a programming language
+// Instructions(Input)---->computer---->output
+// how to run a java script programmingthrought browser
+// we can write java scrpit code in the console of the browser--temparory way
+
+// to connect a js file to browser ---> html file
+<!-- 
+// html is directly connected with browser now using index.html we will connect our java scrpit code to browser
+// - <!DOCTYPE html> → Declares the document type as HTML5.
+// - <html lang="en"> → Starts the HTML document and specifies the language as English.
+// - <head> section → Contains metadata:
+// - <meta charset="UTF-8"> → Ensures the page uses UTF-8 encoding (supports most characters).
+// - <meta name="viewport" content="width=<device-width>, initial-scale=1.0"> → Makes the page responsive on mobile devices (though width=<device-width> looks like a typo; it should be width=device-width).
+// - <title>Document</title> → Sets the page title (shown in the browser tab).
+// - <body> section → Contains the visible content of the page.
+// - <script src="firstProgram.js"></script> → Loads and executes an external JavaScript file named firstProgram.js --> -->
+
+<!-- x=null special value
+y=undefined 
+
+java script is a dynamically typed language --> -->
+<!-- variable type can be chan ged in runtime -->
+<!-- java script variables are case sensitive so a and A are two different variables
+var const and let
+var was used before ES6 and is avoided now -->
+<!-- const -varialbles whos value cant be chnaged -->
+let- to declare block code variables
